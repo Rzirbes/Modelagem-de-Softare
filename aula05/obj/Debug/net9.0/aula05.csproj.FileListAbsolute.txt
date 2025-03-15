@@ -1,0 +1,14 @@
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\bin\Debug\net9.0\aula05.exe
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\bin\Debug\net9.0\aula05.deps.json
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\bin\Debug\net9.0\aula05.runtimeconfig.json
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\bin\Debug\net9.0\aula05.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\bin\Debug\net9.0\aula05.pdb
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.AssemblyInfoInputs.cache
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.AssemblyInfo.cs
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.csproj.CoreCompileInputs.cache
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\refint\aula05.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.pdb
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\aula05.genruntimeconfig.cache
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\aula05\obj\Debug\net9.0\ref\aula05.dll
