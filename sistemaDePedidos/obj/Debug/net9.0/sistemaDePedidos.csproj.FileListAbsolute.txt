@@ -1,0 +1,14 @@
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\bin\Debug\net9.0\sistemaDePedidos.exe
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\bin\Debug\net9.0\sistemaDePedidos.deps.json
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\bin\Debug\net9.0\sistemaDePedidos.runtimeconfig.json
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\bin\Debug\net9.0\sistemaDePedidos.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\bin\Debug\net9.0\sistemaDePedidos.pdb
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.AssemblyInfoInputs.cache
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.AssemblyInfo.cs
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.csproj.CoreCompileInputs.cache
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\refint\sistemaDePedidos.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.pdb
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\sistemaDePedidos.genruntimeconfig.cache
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\sistemaDePedidos\obj\Debug\net9.0\ref\sistemaDePedidos.dll
