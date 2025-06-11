@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClinicaVetAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ClinicaVetAPI.Controllers.PetController.GetAll">
+            <summary>
+            Retorna todos os pets cadastrados.
+            </summary>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.PetController.GetById(System.Int32)">
+            <summary>
+            Retorna um pet pelo ID.
+            </summary>
+            <param name="id">ID do pet.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.PetController.Add(ClinicaVetAPI.DTO.PetDTO)">
+            <summary>
+            Cadastra um novo pet.
+            </summary>
+            <param name="dto">Dados do pet.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.PetController.Update(System.Int32,ClinicaVetAPI.DTO.PetDTO)">
+            <summary>
+            Atualiza um pet existente.
+            </summary>
+            <param name="id">ID do pet.</param>
+            <param name="dto">Dados atualizados do pet.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.PetController.Delete(System.Int32)">
+            <summary>
+            Remove um pet do sistema.
+            </summary>
+            <param name="id">ID do pet.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.TutorController.GetAll">
+            <summary>
+            Retorna todos os tutores cadastrados.
+            </summary>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.TutorController.GetById(System.Int32)">
+            <summary>
+            Retorna um tutor pelo ID.
+            </summary>
+            <param name="id">ID do tutor.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.TutorController.Add(ClinicaVetAPI.DTO.TutorDTO)">
+            <summary>
+            Cadastra um novo tutor.
+            </summary>
+            <param name="dto">Dados do tutor.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.TutorController.Update(System.Int32,ClinicaVetAPI.DTO.TutorDTO)">
+            <summary>
+            Atualiza um tutor existente.
+            </summary>
+            <param name="id">ID do tutor.</param>
+            <param name="dto">Dados atualizados do tutor.</param>
+        </member>
+        <member name="M:ClinicaVetAPI.Controllers.TutorController.Delete(System.Int32)">
+            <summary>
+            Remove um tutor do sistema.
+            </summary>
+            <param name="id">ID do tutor.</param>
+        </member>
+        <member name="T:ClinicaVetAPI.Migrations.MigrationInitial">
+            <inheritdoc />
+        </member>
+        <member name="M:ClinicaVetAPI.Migrations.MigrationInitial.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ClinicaVetAPI.Migrations.MigrationInitial.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:ClinicaVetAPI.Migrations.MigrationInitial.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

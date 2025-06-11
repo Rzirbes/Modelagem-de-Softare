@@ -6,6 +6,9 @@ C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\Clinic
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\ClinicaVetAPI.runtimeconfig.json
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\ClinicaVetAPI.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\ClinicaVetAPI.pdb
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\ClinicaVetAPI.xml
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\Humanizer.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
@@ -37,6 +40,9 @@ C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\Clinic
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\SQLitePCLRaw.core.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\System.Composition.AttributedModel.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\bin\Debug\net9.0\System.Composition.Convention.dll
@@ -150,6 +156,7 @@ C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\Clinic
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\ClinicaV.805EEC9E.Up2Date
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\ClinicaVetAPI.dll
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\refint\ClinicaVetAPI.dll
+C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\ClinicaVetAPI.xml
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\ClinicaVetAPI.pdb
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\ClinicaVetAPI.genruntimeconfig.cache
 C:\Users\rzirb\Documents\aulas\modelagem-de-software\Modelagem-de-Softare\ClinicaVetAPI\obj\Debug\net9.0\ref\ClinicaVetAPI.dll
